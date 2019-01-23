@@ -1,0 +1,11 @@
+{
+  "name": "twitterforslack",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:YutaMonb/twitterforslack.git",
+  "author": "yutamonb <yutamonb@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "run": "node ./src/app.js"
+  }
+}
